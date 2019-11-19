@@ -1,0 +1,1 @@
+dataset/dgk_shooter_min.conv filter=lfs diff=lfs merge=lfs -text
